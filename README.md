@@ -14,12 +14,12 @@ SO THAT I can keep a list of books to purchase
 
 # Description
 
-- This application utilizes Javascript, React, MongoDB and Graphql to create a Book Search utilizing googleapi to find the books.
-- The user can create an account that requires a password, username and email.
-- The user can input the book that they are looking for into the searchbar and a list of books will populate the webpage.
-- The user has the option to save the book of their choosing to their profile.
-- The user can see the books they have saved to their profile.
-- The user can log out of their account and acess it again by hitting the login page.
+- The application utlizes the Google Books API to find books.
+- A user can establish an account.
+- A user can search for a specific book.
+- A user can save the book the searched for.
+- A user can access saved books.
+- A user can log out and log back in.
 
 # Technologies
 
